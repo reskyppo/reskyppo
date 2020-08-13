@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Resky</h1>
+<h3 align="center">A Student who loves JavaScript</h3>
 
-<!--
-**reskyppo/reskyppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **ReactJs, NextJS, and ExpressJs**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **reskybeen@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reskyppo&layout=compact&hide=html" alt="reskyppo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reskyppo&show_icons=true" alt="reskyppo" /></p>
+
+<p align="center">
+<a href="https://linkedin.com/in/resky-budi-nugroho-a394681a9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="resky-budi-nugroho-a394681a9" height="30" width="30" /></a>
+</p>
