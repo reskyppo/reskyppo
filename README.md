@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NextJS, and ExpressJs**
 
-- 📫 How to reach me **reskybeen@gmail.com**
+- 📫 How to reach me **reskybeen@gmail.com** and <a href="https://reskyppo.vercel.app/">My personal website</a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reskyppo&layout=compact&hide=html" alt="reskyppo" /></p>
 
