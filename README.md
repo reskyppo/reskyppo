@@ -6,4 +6,4 @@
 
 - 👨‍💻 All of my projects are available at [https://reskyppo.vercel.app/](https://reskyppo.vercel.app/)
 
-- 📫 How to reach me **reskybeen@gmail.com** and [https://linkedin.com/in/resky-budi-nugroho-a394681a9](LinkedIn)
+- 📫 How to reach me **reskybeen@gmail.com** and [LinkedIn](https://linkedin.com/in/resky-budi-nugroho-a394681a9)
